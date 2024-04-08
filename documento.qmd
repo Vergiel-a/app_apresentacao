@@ -1,0 +1,43 @@
+---
+title: "Apresentação de Conjuntura Econômica"
+subtitle: "Nível de Atividade"
+author: 'Luiz Henrique'
+lang: pt
+format: 
+  revealjs:
+    theme: [moon, qmd/personalizacao.scss]
+    logo: "https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png"
+    transition: fade
+    footnotes-hover: true
+    progress: true
+    slide-number: true
+    embed-resources: true
+    code-copy: true
+    code-link: true
+    link-external-newwindow: true
+    width: 1300
+    margin: 0.05
+    fig-asp: 0.618
+    fig-width: 5
+    fig-height: 3
+    fig-align: center
+    df-print: paged
+    controls: true
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+## Introdução
+
+palavra
+
+## Introdução
+
+palavra
+
+```{python}
+import pandas as pd
+import numpy as np
+```
